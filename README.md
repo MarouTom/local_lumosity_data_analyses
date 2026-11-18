@@ -1,1 +1,1 @@
-# local_lumosity_data_analyses
+# Lumosity data analyses
